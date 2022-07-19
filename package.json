@@ -1,0 +1,23 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "project fil rouge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-Heymans8/Fil-Rouge.git"
+  },
+  "author": "Lucas Heymans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L-Heymans8/Fil-Rouge/issues"
+  },
+  "homepage": "https://github.com/L-Heymans8/Fil-Rouge#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
